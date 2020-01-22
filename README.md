@@ -1,6 +1,9 @@
 # Python часть
 
 Урок 10:<br> 
+Циклы 
+cnh 122-127
+
 Python 3 загрузка<br>
 https://www.python.org/ftp/python/3.7.4/python-3.7.4-amd64.exe<br>
 
